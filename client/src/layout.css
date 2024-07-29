@@ -1,9 +1,10 @@
 .main{
     padding: 20px;
+    background-color: #121212;
 }
 
 .logo{
-    color: white;
+    color: #929292;
     font-weight: bold;
 }
 .role{
@@ -12,7 +13,7 @@
     margin-top:-20px ;
 }
 .sidebar{
-    background-color: #005555;
+    background-color: #1e1e1f;
     border-radius: 5px;
     box-shadow: 0 0 2px gray;
     margin-right: 20px;
@@ -24,7 +25,7 @@
     height: 100%;
  }
 .header{
-    background-color: white;
+    background-color: #939393;
     border-radius: 5px;
     box-shadow: 0 0 2px gray;
     margin-bottom: 20px;
@@ -35,9 +36,9 @@
 }
 
 .body{
-    background-color: white;
+    background-color: #939393;
     border-radius: 5px;
-    box-shadow: 0 0 2px gray;
+    box-shadow: 0 0 2px rgb(23, 21, 21);
     height: 82vh;
     width: 100%;
     padding: 15px;
@@ -69,7 +70,7 @@
 
 .active-menu-item{
     color: white;
-    background-color: #013737;
+    background-color: #929292;
     padding: 5px;
     border-radius: 5px;
 }

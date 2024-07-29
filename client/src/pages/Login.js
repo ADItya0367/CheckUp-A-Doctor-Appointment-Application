@@ -38,7 +38,7 @@ function Login() {
           <Form.Item label="Password" name="password">
             <Input placeholder="Password" type="password" />
           </Form.Item>
-
+           
           
           <Button className="primary-button my-2 full-width-button" htmlType="submit">
             LOGIN
@@ -49,6 +49,7 @@ function Login() {
           </Link>
          
         </Form>
+      
       </div>
     </div>
   );

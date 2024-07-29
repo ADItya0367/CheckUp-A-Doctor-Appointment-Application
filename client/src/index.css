@@ -64,12 +64,21 @@ label{
 .normal-text{
   font-size: 1rem;
 }
+.img{
+  margin-left: 40px;
+  width: 40%;
+  height: 40%;
+  object-fit: cover;
+}
+
 .card{
-  box-shadow: 0 0 2px rgb(189, 188, 188);
-  border-radius: 0 !important;
+  box-shadow: 0 0 2px rgb(12, 12, 12);
+  border: 1px solid rgb(12, 12, 12);
+  border-radius: 5 !important;
+  background-color: aliceblue;
 }
 .primary-button{
-  background-color: #005555 !important;
+  background-color: #131515 !important;
   border-color: #005555 !important;
   height: 40px !important;
   width: 100% !important;
@@ -88,12 +97,13 @@ p{
 
 .anchor{
   color: black !important;
-  text-decoration: underline;
+  margin-left: 80px;
+  text-decoration: none;
   cursor: pointer;
   font-size: 16px !important;
 }
 .anchor:hover{
-  text-decoration: underline !important;
+  text-decoration: none !important;
 }
 
 .cursor-pointer{
@@ -106,19 +116,23 @@ p{
 .authentication{
    height: 100vh;
    display: flex;
+   
    align-items: center;
    justify-content: center;
-   background-color: #005555;
+   background-color: #131515;
 }
 .authentication-form{
-  width: 400px;
+  width: 500px;
+  border-radius: 70px;
 }
 
 .authentication .card-title{
   font-size: 1.5rem;
   font-weight: bold;
-  background-color: orangered;
+  border: 2px solid rgb(64, 63, 63);
+  background-color: #131515;
   color: white !important;
+  border-radius: 20px;
   max-width: max-content !important;
   padding: 7px 15px;
   margin-left: -40px;

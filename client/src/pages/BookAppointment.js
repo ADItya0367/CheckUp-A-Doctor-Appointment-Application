@@ -119,7 +119,7 @@ function BookAppointment() {
 
             <Col span={8} sm={24} xs={24} lg={8}>
               <img
-                src="https://thumbs.dreamstime.com/b/finger-press-book-now-button-booking-reservation-icon-online-149789867.jpg"
+                src="https://thumbs.dreamstime.com/b/book-now-icon-book-now-sign-dark-background-book-now-icon-book-now-sign-dark-background-simple-vector-icon-117288728.jpg"
                 alt=""
                 width="100%"
                 height='400'
