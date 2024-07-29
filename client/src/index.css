@@ -97,7 +97,7 @@ p{
 
 .anchor{
   color: black !important;
-  margin-left: 80px;
+  margin-left: 130px;
   text-decoration: none;
   cursor: pointer;
   font-size: 16px !important;
@@ -123,7 +123,7 @@ p{
 }
 .authentication-form{
   width: 500px;
-  border-radius: 70px;
+  border-radius: 20px;
 }
 
 .authentication .card-title{
