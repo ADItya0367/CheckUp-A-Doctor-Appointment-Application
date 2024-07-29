@@ -4,6 +4,12 @@
 
 https://github.com/user-attachments/assets/db1f7507-f7df-4e24-97fb-fe4b2a980bce
 
+ ## Project Screenshot
+
+ ![Screenshot (9)](https://github.com/user-attachments/assets/bb34d18c-eb5b-4983-b81c-bbac58b99ca5)
+![Screenshot (8)](https://github.com/user-attachments/assets/42aed736-ecea-4c89-9758-b7aa118999cb)
+![Screenshot (7)](https://github.com/user-attachments/assets/a0aafbfd-4456-45e2-8caf-dc9b23e8a3c7)
+![Screenshot (6)](https://github.com/user-attachments/assets/6c1bbf15-918f-4e63-97e1-b50110afec8c)
 
 
 
@@ -118,8 +124,8 @@ Note: Please note that these are general instructions for setting up an Express 
 - **TypeScript:** A superset of JavaScript that adds static typing, enhancing code quality and maintainability.
 - **Prisma**: A modern database toolkit for Node.js and TypeScript, used for database access and management.
 
- ## Project Screenshot
-![DoctorOnCall OverView](https://github.com/Ujjalzaman/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
+
+ 
 
 ## Contributing:
 
