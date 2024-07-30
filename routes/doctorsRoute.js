@@ -12,6 +12,7 @@ router.post("/get-doctor-info-by-user-id", authMiddleware, async (req, res) => {
       success: true,
       message: "Doctor info fetched successfully",
       data: doctor,
+      
     });
   } catch (error) {
     res
